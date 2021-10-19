@@ -7,6 +7,6 @@ function srednia(int a, inb b)
 	
 	funcitoion wazona_srednia(int a, int b)
 	{
-     return (7*a+3*b)/10
+     return (8*a+2*b)/10
 	}
 ?>
