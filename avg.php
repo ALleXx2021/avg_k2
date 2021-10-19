@@ -7,7 +7,7 @@
 	
 	function wsrednia (int a, int b)
 	{
-		return (7*a+3*b)/10;
+		return (6*a+4*b)/10;
 	}
 	
 ?>
